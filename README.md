@@ -54,7 +54,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 ## :clapper: Apresentação Final do Projeto :clapper:
 
-Em breve....
+Em breve.....
     
 
 → [Voltar ao topo](#topo)
