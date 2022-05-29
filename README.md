@@ -31,8 +31,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
 
-:pushpin: Status do Projeto: 🚧 **Em construção** 🚧
-
 → [Voltar ao topo](#topo)
 
 <span id="equipe">
