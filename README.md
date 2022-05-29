@@ -3,8 +3,7 @@
 <p align="center"> <img src="./banner.png" /></p>
 
 <p align="center">
-    <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlogs</a>  |   
+    <a href="#sobre">Sobre</a>  |     
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>  |  
     <a href="#final">Apresentação Final</a>
@@ -15,12 +14,6 @@
 ## :bookmark_tabs: Sobre o projeto
 
 A partir do desafio proposto no projeto interdisciplinar do curso Desenvolvimento de Software Multiplataforma da Fatec Franca de construir um site, nosso grupo desenvolveu um site voltado para uma agência imobiliária focada em ajudar estudantes universitários, que precisam se mudar para estudar e tem dificuldades para encontrar algum imóvel próximo a sua universidade, o site além da ênfase nos imóveis universitários, tambem terá imóveis residenciais e comerciais para o cliente alugar ou comprar.
-
-:pushpin: Status do Projeto: 🚧 **Em construção** 🚧
-
-<span id="backlogs">
-
-## :dart: Backlog
 
 :pushpin: Status do Projeto: 🚧 **Em construção** 🚧
 
