@@ -15,7 +15,7 @@
 
 A partir do desafio proposto no projeto interdisciplinar do curso Desenvolvimento de Software Multiplataforma da Fatec Franca de construir um site, nosso grupo desenvolveu um site voltado para uma agência imobiliária focada em ajudar estudantes universitários, que precisam se mudar para estudar e tem dificuldades para encontrar algum imóvel próximo a sua universidade, o site além da ênfase nos imóveis universitários, tambem terá imóveis residenciais e comerciais para o cliente alugar ou comprar.
 
-:pushpin: Status do Projeto: 🚧 **Em construção** 🚧
+:pushpin: Status do Projeto: :heavy_check_mark: **Finalizado**
 
 → [Voltar ao topo](#topo)
 
@@ -26,7 +26,8 @@ A partir do desafio proposto no projeto interdisciplinar do curso Desenvolviment
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
     
 <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
-<img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
+<img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="JavaScript" /> 
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
 <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
@@ -50,7 +51,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 ## :clapper: Apresentação Final do Projeto :clapper:
 
-Em breve.....
+Link: https://youtu.be/zf6-aO2HCqI
     
 
 → [Voltar ao topo](#topo)
